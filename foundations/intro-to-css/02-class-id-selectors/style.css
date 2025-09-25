@@ -1,1 +1,24 @@
-/* Add CSS Styling */
+/* styles.css */
+
+.numbers {
+  color: rgb(0, 0, 0);
+  background-color: rgb(245, 113, 113);
+  font-family: Verdana, sans-serif;
+}
+
+.numbers4 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(85, 245, 85);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.font-size  {
+    font-size: 24px;
+}
+
+
+#blue {
+  color: rgb(5, 5, 248);
+  font-size: 36px;
+}
